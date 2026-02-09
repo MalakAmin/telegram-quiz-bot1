@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 TOKEN = os.environ.get('TELEGRAM_TOKEN', 'ضع_توكنك_هنا')
 
 # 👨🏫 رقم المعلم (ضع رقمك من @userinfobot)
-TEACHER_ID = 123456789  # غير هذا الرقم!
+TEACHER_ID = 8422436251  # غير هذا الرقم!
 
 # 📊 قاعدة بيانات بسيطة في ملف
 class Database:
